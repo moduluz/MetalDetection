@@ -1,0 +1,8 @@
+2024-11-03 00:36:45,372 - MetalDetector - INFO - Initializing Metal Detector...
+2024-11-03 00:36:45,372 - MetalDetector - INFO - All required paths verified successfully
+2024-11-03 00:36:45,560 - MetalDetector - INFO - Metal Detector initialized successfully
+2024-11-03 00:36:45,560 - MetalDetector - INFO - Processing image: C:\clone\metal detection\metal detection\dataset\test\images\test.jpg
+2024-11-03 00:41:20,969 - MetalDetector - INFO - Initializing Metal Detector...
+2024-11-03 00:41:20,970 - MetalDetector - INFO - All required paths verified successfully
+2024-11-03 00:41:21,131 - MetalDetector - INFO - Metal Detector initialized successfully
+2024-11-03 00:41:21,131 - MetalDetector - INFO - Processing image: C:\clone\metal detection\metal detection\dataset\test\images\test.jpg
